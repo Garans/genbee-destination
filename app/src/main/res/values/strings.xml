@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Android13PermissionDemo</string>
+<string name="app_name">open_nfc</string>
+<string name="github_link"><a href="http://www.google.com">https://github.com/artvuu</a></string>
 </resources>
